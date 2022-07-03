@@ -11,6 +11,7 @@
 #InstallKeybdHook
 #UseHook
 #SingleInstance force
+#MaxHotkeysPerInterval 1000
 
 ;---------------------
 ; キーの設定          
